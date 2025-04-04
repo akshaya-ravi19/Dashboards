@@ -11,3 +11,10 @@ Key Insights:
 
 ## View the Full Dashboard
  [Tableau Public Link](https://public.tableau.com/app/profile/akshaya.ravikumar/viz/Superstore-Dashboard_17436770820200/Superstore-Dashboard)
+
+# Mortality Rate Analysis using Power BI
+
+## Project Overview 
+
+## View the full Dashboard
+[Power BI Dashboard Link]

@@ -16,14 +16,13 @@ Key Insights:
 
 ## Project Overview 
 
-I developed an interactive Power BI dashboard to analyze age-specific mortality trends across different countries and genders between 1970 and 2010. This report provides valuable insights into life expectancy patterns, gender disparities in mortality rates, and regional differences in health outcomes.
+Age-specific mortality trends across different countries and genders between the years 1970 and 2010 was analyzed and visualizedboa using Power BI by creating an interactive Dashboard. The report provides insights into life expectancy patterns and gender disparities in mortality rates. 
 
 Key Insights: 
 1. Global Decline in Mortality Rates – Most countries saw a steady decrease in mortality rates, particularly among children under 5, due to medical advancements and improved healthcare.
 2. Gender Disparities – On average, women had lower mortality rates and a higher life expectancy than men in almost all regions.
 3. Regional Variations – High-income countries saw a significant decline in mortality rates across all age groups, while low-income countries continued to experience higher mortality rates, especially among infants and the elderly.
-4. Mortality Spikes in Certain Periods – Some countries experienced temporary increases in mortality due to wars, epidemics, or economic crises (e.g., the HIV/AIDS epidemic in Africa in the 1990s).
-5. Elderly Mortality Trends – While mortality among young populations declined, elderly mortality (65+ years) remained relatively stable, reflecting natural life expectancy limits.
+4. Elderly Mortality Trends – While mortality among young populations declined, elderly mortality (65+ years) remained relatively stable, reflecting natural life expectancy limits.
 
 ## View the full Dashboard
 [Power BI Dashboard Link]

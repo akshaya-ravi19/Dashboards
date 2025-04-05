@@ -9,7 +9,7 @@ Key Insights:
 2. Top-selling products fall under the Office Suplies Category, contributing 60.3% of total revenue.
 3. High-performing states - California, New York, Texas generate most of the profits from sales, indicating strong brand penetration. 
 
-## View the Full Dashboard
+## View the Dashboard
  [Tableau Public Link](https://public.tableau.com/app/profile/akshaya.ravikumar/viz/Superstore-Dashboard_17436770820200/Superstore-Dashboard)
 
 # Mortality Rate Analysis using Power BI
@@ -24,6 +24,6 @@ Key Insights:
 3. Regional Variations – High-income countries saw a significant decline in mortality rates across all age groups, while low-income countries continued to experience higher mortality rates. 
 4. Elderly Mortality Trends – While mortality among young populations declined, elderly mortality remained relatively stable, reflecting natural life expectancy limits.
 
-## View the full Dashboard
+## View the Dashboard
 [Power BI Dashboard in pdf](https://github.com/akshaya-ravi19/Dashboards/blob/main/Mortality%20Report.pdf)
  

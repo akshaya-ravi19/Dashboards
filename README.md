@@ -1,6 +1,6 @@
 # Product Sales and Customer Order Analysis using Tableau
 
-## Project Overview
+## Overview
 
 This interactive Tableau Dashboard provides valueable insights into identifying sales trends and increase in customer order patterns over the years. The Dashboard also provides regional sales distribution, different categories of top selling products and customer purchasing behaviour, helping business make data-driven decisions. 
 
@@ -14,7 +14,7 @@ Key Insights:
 
 # Mortality Rate Analysis using Power BI
 
-## Project Overview 
+## Overview 
 
 Age-specific mortality trends across different countries and genders between the years 1970 and 2010 was analyzed and visualizedboa using Power BI by creating an interactive Dashboard. The report provides insights into life expectancy patterns and gender disparities in mortality rates. 
 

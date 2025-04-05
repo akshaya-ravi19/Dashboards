@@ -24,5 +24,6 @@ Key Insights:
 3. Regional Variations – High-income countries saw a significant decline in mortality rates across all age groups, while low-income countries continued to experience higher mortality rates. 
 4. Elderly Mortality Trends – While mortality among young populations declined, elderly mortality remained relatively stable, reflecting natural life expectancy limits.
 
-## View the full Dashboard in pdf
+## View the full Dashboard
+[Power BI Dashboard in pdf](https://github.com/akshaya-ravi19/Dashboards/blob/main/Mortality%20Report.pdf)
  

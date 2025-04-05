@@ -21,8 +21,6 @@ Age-specific mortality trends across different countries and genders between the
 Key Insights: 
 1. Global Decline in Mortality Rates – Most countries saw a steady decrease in mortality rates, particularly among children under 5, due to medical advancements and improved healthcare.
 2. Gender Disparities – On average, women had lower mortality rates and a higher life expectancy than men in almost all regions.
-3. Regional Variations – High-income countries saw a significant decline in mortality rates across all age groups, while low-income countries continued to experience higher mortality rates, especially among infants and the elderly.
-4. Elderly Mortality Trends – While mortality among young populations declined, elderly mortality (65+ years) remained relatively stable, reflecting natural life expectancy limits.
-
-## View the full Dashboard
-[Power BI Dashboard Link] 
+3. Regional Variations – High-income countries saw a significant decline in mortality rates across all age groups, while low-income countries continued to experience higher mortality rates. 
+4. Elderly Mortality Trends – While mortality among young populations declined, elderly mortality remained relatively stable, reflecting natural life expectancy limits.
+ 
